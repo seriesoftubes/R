@@ -1,0 +1,1 @@
+Using the LPSolveAPI's integer programming functionality to find the optimal order of a list of elements, given some constraints on the elements' positions.  E.g., element1 must be before element2.
